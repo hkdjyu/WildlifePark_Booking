@@ -1,4 +1,4 @@
-# WildlifeParl_Booking
+# WildlifePark_Booking
 A python program to implement the booking system of Wildlife Park
 
 ## Ticket Information
