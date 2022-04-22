@@ -7,7 +7,7 @@ A python program to implement the booking system of Wildlife Park
 | one adult | $20.00 | $30.00 |
 | one child(an adult may bring up to 2 children) | $12.00 | $18.00 |
 | one senior | $16.0 | $24.0 | 
-| family ticket (up to 2 adults or seniors, and 3 children | $60.00 | $90.00 |
+| family ticket (up to 2 adults or seniors, and 3 children） | $60.00 | $90.00 |
 | groups of 6 people or more, price per person | $15.00 | $ 22.50 |
 
 | Extra attraction | Cost per person |
